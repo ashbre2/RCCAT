@@ -1,0 +1,4 @@
+Model,Target,Step,r2,r,rmse,Features selected
+lstm,FCH4,1,0.531,0.737,52.046,VegT_tavg
+lstm,FCH4,2,0.578,0.761,49.373,NIR_reflectance
+lstm,FCH4,3,0.603,0.781,47.924,TVeg_tavg

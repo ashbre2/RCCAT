@@ -1,0 +1,2 @@
+Model,Target,Step,r2,r,rmse,Features selected
+xgboost,FC,1,0.641,0.801,1.611,Tair_f_tavg

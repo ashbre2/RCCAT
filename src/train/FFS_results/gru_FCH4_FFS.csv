@@ -1,0 +1,4 @@
+Model,Target,Step,r2,r,rmse,Features selected
+gru,FCH4,1,0.536,0.741,51.767,VegT_tavg
+gru,FCH4,2,0.58,0.764,49.249,NIR_reflectance
+gru,FCH4,3,0.602,0.776,47.977,blue_reflectance

@@ -1,0 +1,2 @@
+Model,Target,Step,r2,r,rmse,Features selected
+linear,FC,1,0.608,0.78,1.682,Tair_f_tavg

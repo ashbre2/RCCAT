@@ -1,0 +1,5 @@
+Model,Target,Step,r2,r,rmse,Features selected
+random_forest,FCH4,1,0.365,0.631,60.556,VegT_tavg
+random_forest,FCH4,2,0.467,0.707,55.491,EVI
+random_forest,FCH4,3,0.489,0.712,54.317,blue_reflectance
+random_forest,FCH4,4,0.51,0.725,53.201,AvgSurfT_tavg

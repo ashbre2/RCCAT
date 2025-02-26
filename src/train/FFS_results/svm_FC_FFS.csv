@@ -1,0 +1,4 @@
+Model,Target,Step,r2,r,rmse,Features selected
+svm,FC,1,0.64,0.803,1.613,Tair_f_tavg
+svm,FC,2,0.666,0.818,1.552,blue_reflectance
+svm,FC,3,0.68,0.825,1.52,Lwnet_tavg

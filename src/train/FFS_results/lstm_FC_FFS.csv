@@ -1,0 +1,5 @@
+Model,Target,Step,r2,r,rmse,Features selected
+lstm,FC,1,0.656,0.815,1.577,Tair_f_tavg
+lstm,FC,2,0.677,0.825,1.528,WaterTableD_tavg
+lstm,FC,3,0.693,0.836,1.488,ESoil_tavg
+lstm,FC,4,0.716,0.848,1.433,MIR_reflectance

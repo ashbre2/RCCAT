@@ -1,0 +1,5 @@
+Model,Target,Step,r2,r,rmse,Features selected
+random_forest,FC,1,0.56,0.77,1.782,Tair_f_tavg
+random_forest,FC,2,0.603,0.785,1.692,Evap_tavg
+random_forest,FC,3,0.631,0.805,1.632,SWdown_f_tavg
+random_forest,FC,4,0.645,0.812,1.602,LWdown_f_tavg

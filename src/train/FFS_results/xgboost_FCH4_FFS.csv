@@ -1,0 +1,4 @@
+Model,Target,Step,r2,r,rmse,Features selected
+xgboost,FCH4,1,0.486,0.698,54.475,VegT_tavg
+xgboost,FCH4,2,0.566,0.758,50.092,EVI
+xgboost,FCH4,3,0.586,0.769,48.915,SoilTemp00_10cm_tavg

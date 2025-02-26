@@ -1,0 +1,4 @@
+Model,Target,Step,r2,r,rmse,Features selected
+gru,FC,1,0.655,0.815,1.579,Tair_f_tavg
+gru,FC,2,0.672,0.822,1.539,WaterTableD_tavg
+gru,FC,3,0.684,0.827,1.511,Qh_tavg
