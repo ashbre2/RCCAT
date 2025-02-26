@@ -17,8 +17,8 @@ from data_loader import process_site_data
 # -----------------------------------------
 # 1. Experimental Parameters, 
 # -----------------------------------------
-model_type = 'random_forest' # linear, random_forest, svm, xgboost, lightgbm, gru, lstm
-target_var = 'FCH4'       # e.g., "FC" or "FCH4"
+model_type = 'linear' # linear, random_forest, svm, xgboost, lightgbm, gru, lstm
+target_var = 'FC'       # e.g., "FC" or "FCH4"
 site_list = ['US-Myb', 'US-Tw1', 'US-Tw4']
 
 # -----------------------------------------
